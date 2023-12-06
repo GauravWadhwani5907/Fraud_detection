@@ -10,3 +10,6 @@
 # Technologies Used
 Python, Machine Learning, Jupyter Notebook
 
+# Note
+Data or csv is not possible to upload because there are 63 lakh rows
+
